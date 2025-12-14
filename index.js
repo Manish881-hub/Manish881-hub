@@ -1,4 +1,3 @@
-const fs = require('fs');
 const thisYear = new Date().getFullYear()
 const startTimeOfThisYear = new Date(`${thisYear}-01-01T00:00:00+00:00`).getTime()
 const endTimeOfThisYear = new Date(`${thisYear}-12-31T23:59:59+00:00`).getTime()
@@ -40,7 +39,7 @@ const userData = {
         { name: "MongoDB", icon: "https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg", width: 45, height: 55 }
     ],
     funFact: "Je connais un peu le français",
-    hobbies: "Talk to me about Football, python (neither of these is any insect or animal), Silicon Valley & startups",
+    hobbies: "Talk to me about Football, python (neither of these is any insect or animal)",
     currentlyReading: "**The Art of Being Alone** by Renuka Gavrani",
     dailyUsed: "**.js**, **.java**, **.py**,  **.sql**"
 };
@@ -113,5 +112,5 @@ const readme = `\
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
 `
-fs.writeFileSync('README.md', readme);
+console.log(readme)
 
