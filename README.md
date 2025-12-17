@@ -1,4 +1,4 @@
-﻿# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
 <p align="center">
 <a href="https://twitter.com/manishbhakti" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="manishbhakti" height="30" width="30" /></a>&nbsp;
 <a href="https://linkedin.com/in/manishbhaktisagar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="manishbhaktisagar" height="30" width="30" /></a>&nbsp;
@@ -31,17 +31,12 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress:** { ████████████████████████████▁▁ } 95.14% as on ⏰ 14-Dec-2025
+⏳ **Year Progress:** { ████████████████████████████▁▁ } 95.91% as on ⏰ 17-Dec-2025
 
 ---
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Going Vernacular: Engineering Our Way to Process Multilingual Names](https://dev.to/apoorvtyagi/going-vernacular-engineering-our-way-to-process-multilingual-names-5mh)
-- [How to Keep Your Package Dependencies Up to Date on Azure DevOps](https://dev.to/apoorvtyagi/how-to-keep-your-package-dependencies-up-to-date-on-azure-devops-4d0p)
-- [Finding a Needle in Haystack: Fixing Mysterious Bad Gateway](https://dev.to/apoorvtyagi/finding-a-needle-in-haystack-fixing-mysterious-bad-gateway-1571)
-- [Building Resilient Systems: Retry Pattern in Microservices](https://dev.to/apoorvtyagi/building-resilient-systems-retry-pattern-in-microservices-1ngj)
-- [How to Choose The Right Database for Your Application](https://dev.to/apoorvtyagi/how-to-choose-the-right-database-for-your-application-1dk3)
 <!-- BLOG-POST-LIST:END -->
 
 
@@ -50,7 +45,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
@@ -58,3 +53,4 @@
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching humour, Refresh again to view the Card" width = '11000' />
+
