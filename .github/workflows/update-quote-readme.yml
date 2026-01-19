@@ -14,4 +14,5 @@ jobs:
       - uses: ApoorvTyagi/quote-readme@main
         with:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
           OPTION: both 
