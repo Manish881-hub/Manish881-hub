@@ -1,9 +1,9 @@
 name: Latest blog post workflow
-on:
-  workflow_dispatch:
-  schedule:
-    # Runs daily at 00:30 UTC (After main.yml and Waka-Readme)
-    - cron: '30 0 * * *'
+# on:
+#   workflow_dispatch:
+#   schedule:
+#     # Runs daily at 00:30 UTC (After main.yml and Waka-Readme)
+#     - cron: '30 0 * * *'
 permissions:
   contents: write
 jobs:
@@ -11,6 +11,8 @@ jobs:
     name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
+      - name: Workflow Disabled
+        run: echo "This workflow is currently disabled pending a valid RSS feed."
 #       - uses: actions/checkout@v4
 #       - uses: gautamkrishnar/blog-post-workflow@v1
 #         with:
