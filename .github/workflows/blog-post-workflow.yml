@@ -11,11 +11,11 @@ jobs:
     name: Update this repo's README with the latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          max_post_count: "5"
-          retry_count: 3
-          retry_wait_time: 1
-          # TODO: USER - Replace with your own RSS feed URL (e.g., https://dev.to/feed/yourusername or https://medium.com/feed/@yourusername)
-          feed_list: "https://dev.to/feed/apoorvtyagi"
+#       - uses: actions/checkout@v4
+#       - uses: gautamkrishnar/blog-post-workflow@v1
+#         with:
+#           max_post_count: "5"
+#           retry_count: 3
+#           retry_wait_time: 1
+#           # TODO: USER - Replace with your own RSS feed URL (e.g., https://dev.to/feed/yourusername or https://medium.com/feed/@yourusername)
+#           feed_list: "https://dev.to/feed/apoorvtyagi"
