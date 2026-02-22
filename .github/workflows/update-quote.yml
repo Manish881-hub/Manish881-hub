@@ -1,0 +1,23 @@
+name: Update README Quote
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 0 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-quote-update
+  cancel-in-progress: false
+
+jobs:
+  update-quote:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update README quote block
+        uses: siddharth2016/quote-readme@main
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OPTION: both
