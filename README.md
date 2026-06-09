@@ -1,6 +1,6 @@
 <h1 align="center">Manish Bhakti Sagar</h1>
 <p align="center">
-  Full-Stack Engineer · Founder @ <a href="https://adtext.org">Adtext</a>
+   Engineer · Founder @ <a href="https://adtext.org">Adtext</a>
 </p>
 
 <p align="center">
