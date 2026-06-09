@@ -37,20 +37,3 @@ Node.js · PostgreSQL · REST APIs
 Git · Docker · Vercel · Figma
 
 ---
-
-## Featured Projects
-
-### Adtext
-Monetization infrastructure for AI applications.
-
-### Portfolio
-Personal website showcasing projects and experiments.
-
-### AI Experiments
-Small products and prototypes exploring AI workflows.
-
----
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Manish881-hub&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
