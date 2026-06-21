@@ -78,14 +78,6 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish881-hub&theme=github-dark&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="Activity Graph" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 - 💼 **LinkedIn:** [in/manish-bhakti-sagar](https://www.linkedin.com/in/manish-bhaktisagar/)
