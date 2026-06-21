@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manish-bhakti-sagar-823404234/">
+  <a href="https://www.linkedin.com/in/manish-bhaktisagar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.manish-bhaktisagar.is-a.dev">
@@ -108,7 +108,7 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [in/manish-bhakti-sagar](https://www.linkedin.com/in/manish-bhakti-sagar-823404234/)
+- 💼 **LinkedIn:** [in/manish-bhakti-sagar](https://www.linkedin.com/in/manish-bhaktisagar/)
 - 🐙 **GitHub:** [Manish881-hub](https://github.com/Manish881-hub)
 - 🐦 **X:** [@ManishBhakti](https://x.com/ManishBhakti)
 - 📧 **Email:** manishbhakti881@gmail.com
