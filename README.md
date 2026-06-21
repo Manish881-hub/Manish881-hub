@@ -78,31 +78,11 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Manish881-hub&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manish881-hub&theme=github-dark&hide_border=true&bg_color=0d1117&area=true" width="95%" alt="Activity Graph" />
 </p>
-
----
-
-### 🏆 Certifications
-
-| Certification | Issued By | Date |
-| :--- | :--- | :--- |
-| AWS Certified Cloud Practitioner | Amazon Web Services | Dec 2025 |
-| PCAP: Python Essentials | Cisco Networking Academy | Jul 2021 |
-| Programming in Java | Infosys Springboard | Sep 2024 |
-| JavaScript (Intermediate) | HackerRank | Nov 2025 |
-| SQL (Intermediate) | HackerRank | Nov 2025 |
 
 ---
 
