@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/manish-bhakti-sagar-823404234/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://dimewise.vercel.app">
+  <a href="https://www.manish-bhaktisagar.is-a.dev">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://x.com/ManishBhakti">
@@ -49,10 +49,10 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 
 ### 📌 Featured Projects
 
-#### [Dimewise – AI-Powered Finance Platform](https://dimewise.vercel.app)
+#### [Dimewise – AI-Powered Finance Platform](https://www.manish-bhaktisagar.is-a.dev)
 > Full-stack finance management app with AI-driven insights. Serves **200+ users** with **45% improved data visualization**.
 - **Stack:** Next.js 15, Clerk Auth, Supabase, Prisma, Google Generative AI
-- **Live Demo:** [dimewise.vercel.app](https://dimewise.vercel.app)
+- **Live Demo:** [dimewise.vercel.app](https://www.manish-bhaktisagar.is-a.dev)
 
 #### [Adtext – AI Chat Monetization SDK](https://demo.adtext.org)
 > SDK that renders native text ads inside AI-generated responses without breaking user experience.
