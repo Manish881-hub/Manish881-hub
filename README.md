@@ -24,13 +24,13 @@
 
 ### 🚀 About Me
 
-I'm a **Full Stack Engineer** with **2 years of experience** building secure, scalable applications and **LLM infrastructure** for enterprise clients.
+I'm a **Full Stack Engineer** who ships. 1+ year of experience building cloud-native applications and deploying them on AWS.
 
 - 🔹 **Promoted** from Intern to Full Stack Engineer in **3 months** at Coldrecs.
-- 🔹 Built **private AI products** for Legal, Healthcare, and Government sectors (under NDA).
-- 🔹 **AWS Certified Cloud Practitioner** with hands-on EC2, S3, and IAM experience.
-- 🔹 Currently building **[Adtext](https://demo.adtext.org)** – a monetization SDK for AI chat apps.
-- 🔹 Available for **immediate joining** – open to Full Stack, Cloud, or AI Engineer roles.
+- 🔹 Built secure applications for **Legal, Healthcare, and Government** enterprise clients.
+- 🔹 **AWS Certified Cloud Practitioner** with hands-on EC2, S3, IAM, and RDS experience.
+- 🔹 Built and shipped a full-stack AI product from scratch — frontend to backend to infrastructure.
+- 🔹 Available for **immediate joining** — open to Full Stack, Backend, DevOps, or Cloud roles.
 
 ---
 
@@ -39,29 +39,28 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 | **Category** | **Technologies** |
 | :--- | :--- |
 | **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Shadcn UI |
-| **Backend** | Node.js, Spring Boot, FastAPI, REST APIs |
-| **Databases** | PostgreSQL, Supabase, MongoDB, Prisma ORM |
-| **Cloud & DevOps** | AWS (EC2, S3, IAM, RDS), Docker, Git, GitHub, Linux/Unix |
-| **AI/ML** | LLM Integration, OpenRouter API, Prompt Engineering, RAG Evaluation |
-| **Languages** | Java, Python, JavaScript, SQL |
+| **Backend** | Node.js, FastAPI, Spring Boot, REST APIs |
+| **Databases** | PostgreSQL, MySQL, MongoDB, Prisma ORM, JDBC |
+| **Cloud & DevOps** | AWS (EC2, S3, IAM, RDS), Docker, Linux, CI/CD, Git/GitHub |
+| **AI/LLM** | LLM Integration, OpenRouter API, Prompt Engineering, RAG |
+| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
 
 ---
 
 ### 📌 Featured Projects
 
-#### [Dimewise – AI-Powered Finance Platform](https://www.manish-bhaktisagar.is-a.dev)
+#### [Dimewise – AI-Powered Finance Platform](https://dimewise.vercel.app)
 > Full-stack finance management app with AI-driven insights. Serves **200+ users** with **45% improved data visualization**.
 - **Stack:** Next.js 15, Clerk Auth, Supabase, Prisma, Google Generative AI
-- **Live Demo:** [dimewise.vercel.app](https://www.manish-bhaktisagar.is-a.dev)
-
-#### [Adtext – AI Chat Monetization SDK](https://demo.adtext.org)
-> SDK that renders native text ads inside AI-generated responses without breaking user experience.
-- **Stack:** React, TypeScript, LLM Integration
-- **Live Demo:** [demo.adtext.org](https://demo.adtext.org)
+- **Live Demo:** [dimewise.vercel.app](https://dimewise.vercel.app)
 
 #### [Autonomous Insurance Claims Agent](https://github.com/Manish881-hub/Autonomous-Insurance-Claims-Processing-Agent)
 > AI-powered backend service automating FNOL insurance claim processing with intelligent document parsing.
-- **Stack:** Python, OpenRouter API (Mistral), Docker, Jest
+- **Stack:** Python, FastAPI, OpenRouter API (Mistral), Docker, Jest
+
+#### [Livo AI RAG Evaluation – Golden Dataset](https://github.com/Manish881-hub)
+> Built a Golden Dataset for RAG evaluation using Python. Focused on document processing pipelines and enterprise search automation.
+- **Stack:** Python, RAG, Vector Databases
 
 ---
 
@@ -80,10 +79,11 @@ I'm a **Full Stack Engineer** with **2 years of experience** building secure, sc
 
 ### 📫 Let's Connect
 
-- 💼 **LinkedIn:** [in/manish-bhakti-sagar](https://www.linkedin.com/in/manish-bhaktisagar/)
+- 💼 **LinkedIn:** [in/manish-bhaktisagar](https://www.linkedin.com/in/manish-bhaktisagar/)
 - 🐙 **GitHub:** [Manish881-hub](https://github.com/Manish881-hub)
 - 🐦 **X:** [@ManishBhakti](https://x.com/ManishBhakti)
 - 📧 **Email:** manishbhakti881@gmail.com
+- 🌐 **Portfolio:** [manish-bhaktisagar.is-a.dev](https://www.manish-bhaktisagar.is-a.dev)
 
 ---
 
