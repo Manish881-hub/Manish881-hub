@@ -19,30 +19,3 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
-
-### 🚀 About Me
-
-I'm a **Full Stack Engineer** who ships. 1+ year of experience building cloud-native applications and deploying them on AWS.
-
-### 🛠️ Tech Stack
-
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS, Shadcn UI |
-| **Backend** | Node.js, FastAPI, Spring Boot, REST APIs |
-| **Databases** | PostgreSQL, MySQL, MongoDB, Prisma ORM, JDBC |
-| **Cloud & DevOps** | AWS (EC2, S3, IAM, RDS), Docker, Linux, CI/CD, Git/GitHub |
-| **AI/LLM** | LLM Integration, OpenRouter API, Prompt Engineering, RAG |
-| **Languages** | Java, Python, JavaScript, TypeScript, SQL |
-
-### 📫 Let's Connect
-
-- 💼 **LinkedIn:** [in/manish-bhaktisagar](https://www.linkedin.com/in/manish-bhaktisagar/)
-- 🐙 **GitHub:** [Manish881-hub](https://github.com/Manish881-hub)
-- 🐦 **X:** [@ManishBhakti](https://x.com/ManishBhakti)
-- 📧 **Email:** manishbhakti881@gmail.com
-- 🌐 **Portfolio:** [manish-bhaktisagar.is-a.dev](https://www.manish-bhaktisagar.is-a.dev)
-
-<p align="center">
-  <i>"Remember why you started."</i>
-</p>
