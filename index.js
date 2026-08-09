@@ -69,6 +69,18 @@ Small products and prototypes exploring AI workflows.
 ## GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=${userData.githubUsername}&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" />
-\`
+
+---
+
+## WakaTime Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
+<!--START_SECTION:quote-->
+<!--END_SECTION:quote-->
+`
 console.log(readme)
 
