@@ -1,12 +1,7 @@
 name: Update Profile README
 
 on:
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - index.js
+  workflow_dispatch
 
 permissions:
   contents: write
